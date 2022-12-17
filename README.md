@@ -1,9 +1,9 @@
 ## *All of My Programming Certificates* ##
 
-[***Programming Basics - 2022***](https://github.com/JacksonJS12/Certificates/files/8502232/Programming.Basics.-.January.2022.-.Certificate.pdf)
+[***Programming Basics with C# - 2022***](https://github.com/JacksonJS12/Certificates/files/8502232/Programming.Basics.-.January.2022.-.Certificate.pdf)</br>
 ![image](https://user-images.githubusercontent.com/99989417/173139966-b10edbf0-2e48-4707-a7d3-03e2c091fd0e.png)
 
-[***Programming Fundamentals with C# - 2022***](https://github.com/JacksonJS12/Certificates/files/8502234/Programming.Fundamentals.with.C.-.January.2022.-.Certificate.pdf)
+[***Programming Fundamentals with C# - 2022***](https://github.com/JacksonJS12/Certificates/files/8502234/Programming.Fundamentals.with.C.-.January.2022.-.Certificate.pdf)</br>
 ![image](https://user-images.githubusercontent.com/99989417/173140107-78222648-7417-4283-9279-6455c626cc20.png)
 
 [***C# Advanced - 2022***](https://github.com/JacksonJS12/Certificates/blob/main/C%23%20Advanced%20-%20September%202022%20-%20Certificate.pdf)</br>
