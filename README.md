@@ -15,3 +15,5 @@
 [***JavaScript Applications - 2022***](https://github.com/JacksonJS12/Certificates/blob/main/JS%20Applications%20-%20October%202022%20-%20Certificate.pdf)</br>
 ![JS Applications - October 2022 - Certificate](https://user-images.githubusercontent.com/99989417/208267662-c82c358e-8c08-4f51-8a00-f387afc74a77.jpeg)
 
+[***MS SQL - January 2023***](https://github.com/JacksonJS12/Certificates/files/10783668/MS.SQL.-.January.2023.-.Certificate.pdf)</br>
+![MS SQL - January 2023 - Certificate](https://user-images.githubusercontent.com/99989417/220087872-86191900-4c6c-4320-ada0-db70232307ae.jpeg)
