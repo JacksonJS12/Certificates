@@ -17,3 +17,7 @@
 
 [***MS SQL - January 2023***](https://github.com/JacksonJS12/Certificates/files/10783668/MS.SQL.-.January.2023.-.Certificate.pdf)</br>
 ![MS SQL - January 2023 - Certificate](https://user-images.githubusercontent.com/99989417/220087872-86191900-4c6c-4320-ada0-db70232307ae.jpeg)
+
+[***Entity Framework Core - February 2023***](https://github.com/JacksonJS12/Entity-Framework-Core-February)</br>
+![Entity Framework Core - February 2023 - Certificate](https://user-images.githubusercontent.com/99989417/229453418-2dfacb03-e883-44b9-99d0-607df1002de3.jpeg)
+
